@@ -37,39 +37,5 @@ Once running, visit:
 
 ---
 
-## 3. FRONTEND FULL CODE
 
-### Directory Structure
-```
-frontend/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── ScoreCard.jsx
-│   │   ├── TrendChart.jsx
-│   │   ├── ProtectedRoute.jsx
-│   │   └── LoadingSpinner.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Login.jsx
-│   │   ├── Signup.jsx
-│   │   ├── Dashboard.jsx
-│   │   ├── Analyzer.jsx
-│   │   ├── History.jsx
-│   │   ├── AdminPanel.jsx
-│   │   └── NotFound.jsx
-│   ├── features/
-│   │   └── auth/
-│   │       └── authSlice.js
-│   ├── services/
-│   │   └── api.js
-│   ├── store/
-│   │   └── store.js
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-└── README.md
+
